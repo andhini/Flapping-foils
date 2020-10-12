@@ -1,6 +1,6 @@
 ## This is interactive graph for PNAS manuscript.
 ## The sweep angle variations are visualized using plotly Parcoord  graph.
-## Data in CSV. The interactive graph can be played in HTML (internet browser) 
+## Data in CSV. The interactive graph can be played in HTML (internet browser)
 
 import plotly.graph_objects as go
 import numpy as np
@@ -24,8 +24,8 @@ def main():
     df.iloc[:, 1:]=df.iloc[:, 1:].apply(pd.to_numeric, errors = 'coerce')
 
     # associate case name with number
-    mapping={'Pitch-Heave':1,'Pitch':2,'Heave':3,'Twist-Roll':4,'Roll':5}
-    df['Motion']=[mapping[i] for i in df["Cases"]]
+    mapping={"Pitch-Heave":1,"Pitch":2,"Heave":3,"Twist-Roll":4,"Roll":5}
+    df["Motion"]=[mapping[i] for i in df["Cases"]]
 
     #normalized each set of CT,CL,CPo by std (results not good)
     df["Mean CT_norm"]= df["Mean CT"]/df["Mean CT"].std()
@@ -59,7 +59,7 @@ def main():
             dimensions = list([
                 dict(range = [1,5],tickvals = np.arange(1,casenum+1),
                      constraintrange = [1], # change this range by dragging the pink line
-                     label = "Motion", values = df['Motion'],
+                     label = "Motion", values = df["Motion"],
                      ticktext = ['P & H','P','H','T & R','R',]),
                 dict(range = [0.13,0.5],tickvals = [0.13,0.5],
                      label = "Amp(A/l*)", values = df["A/l*"] ),
@@ -70,12 +70,12 @@ def main():
                 dict(range = [-0.5,1.],
                      tickvals = np.round(np.linspace(-0.5,1,7),2),
                      label = "Mean_CT", values = df["Mean CT"] ),
-                dict(range = [0,.5],
-                     tickvals = np.round(np.linspace(0,0.5,6),2),
-                     label = "CT_RMS", values = df["CT_RMS"] ),
+                dict(range = [0,7.0],
+                     tickvals = np.round(np.linspace(0,7.0,8),2),
+                     label = "CL_RMS", values = df["CL_RMS"] ),
                 dict(range = [0.0,6],
                      tickvals = np.round(np.linspace(0.,6.,7),2),
-                     label = "C_Power", values = df["Mean CPo"] ),
+                     label = "Mean C_Pow", values = df["Mean CPo"] ),
                 dict(range = [0,50],
                      tickvals = np.round(np.linspace(0,50,6),2),
                      label = "Efficiency(%)", values = df["Efficiency"] )

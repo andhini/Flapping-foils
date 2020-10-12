@@ -48,7 +48,7 @@ def main():
 
     #----------------parallel coordinate starts here-------------------#
     cols = ["Motion",r"$\it{A/l^*}$",r"$\it{AR}$",r"$\Lambda$",r"$\overline{C_T}$",\
-            r"$\sigma_0 C_T$",r"$\overline{C_{Pow}}$",r"$\eta$(%)"]
+            r"$\sigma_0 C_L$",r"$\overline{C_{Pow}}$",r"$\eta$(%)"]
     x = [i for i, _ in enumerate(cols)]
 
     # providing array colours from red to blue in html format
@@ -79,7 +79,7 @@ def main():
     r"$\it{AR}$": [2,8],\
     r"$\Lambda$": [20.0, 40.0],\
     r"$\overline{C_T}$": [-0.5, 1],\
-    r"$\sigma_0 C_T$": [0, 0.5],\
+    r"$\sigma_0 C_L$": [0, 7.0],\
     r"$\overline{C_{Pow}}$": [0,6],\
     r"$\eta$(%)": [0,50]}
 
