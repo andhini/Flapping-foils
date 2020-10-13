@@ -6,3 +6,6 @@ The following link provide an interactive parallel-axis plot for sweep angle & a
 
 The static graph is also provided in github [link](https://andhini.github.io/Flapping-foils/Parallel-Coordinate_SweepAngle/ParallelPlot_MatplotlibVersion.png)
 
+youtube video 
+{% include youtubePlayer.html id=2iR5a1Bpy24 %}
+
