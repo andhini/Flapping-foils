@@ -6,6 +6,16 @@ The following link provide an interactive parallel-axis plot for sweep angle & a
 
 The static graph is also provided in github [link](https://andhini.github.io/Flapping-foils/Parallel-Coordinate_SweepAngle/ParallelPlot_MatplotlibVersion.png)
 
-youtube video 
-{% include youtubePlayer.html id="2iR5a1Bpy24" %}
+youtube videos supplementary for PNAS manuscript figure 3:
 
+Tail-like motion, sweep angle 20, AR=4 (Figure 3a)
+{% include youtubePlayer.html id="Y_Kb0rKjqk4" %}
+
+Tail-like motion, sweep angle 40, AR=4 (Figure 3c)
+{% include youtubePlayer.html id="85lunPzKjAY" %}
+
+Flipper-like motion, sweep angle 20, AR=8 (Figure 3b)
+{% include youtubePlayer.html id="nL-dyaWihbA" %}
+
+Flipper-like motion, sweep angle 20, AR=8 (Figure 3d)
+{% include youtubePlayer.html id="VPZxxEqDgAM" %}
