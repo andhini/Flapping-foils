@@ -7,10 +7,15 @@ The sweep back angle in animal propulsion surfaces such as fishtails, mammal flu
 The following link provide an interactive parallel-axis plot for the study results we did on the sweep angle & aspect ratio variation: [Parcoords](https://andhini.github.io/Flapping-foils/Parallel-Coordinate_SweepAngle/parallel_plotly.html). 
 [//]: # ({% include ParcoordPlotly.html id="igraph" %})
 
-The static graph is also provided in github [link](https://andhini.github.io/Flapping-foils/Parallel-Coordinate_SweepAngle/ParallelPlot_MatplotlibVersion.png), with the full python scripts are provided for both static and interactive ones in [my github](https://github.com/andhini/Flapping-foils/tree/master/Parallel-Coordinate_SweepAngle).
-Static graph:
+The static graph is also provided in github [link](https://andhini.github.io/Flapping-foils/Parallel-Coordinate_SweepAngle/ParallelPlot_MatplotlibVersion.png) which looks like this:
 
 ![staticParcoord](https://andhini.github.io/Flapping-foils/Parallel-Coordinate_SweepAngle/ParallelPlot_MatplotlibVersion.png)
+
+The full python scripts are provided for both static and interactive ones in [my github](https://github.com/andhini/Flapping-foils/tree/master/Parallel-Coordinate_SweepAngle) along with the correlation coefficients heatmap graph.
+
+Heatmap of Pearson correlation and the correlation ratio script is located in this [link](https://github.com/andhini/Flapping-foils/tree/master/Heatmap_correlation):
+
+![Heatmap](https://github.com/andhini/Flapping-foils/tree/master/Heatmap_correlation/Heatmap_Correlation.png)
 
 The following youtube videos are the supplementary data for our PNAS manuscript figure 3. The manuscript status/link will be updated as soon as it is accepted. 
 
