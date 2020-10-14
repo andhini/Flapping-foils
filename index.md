@@ -15,7 +15,7 @@ The full python scripts are provided for both static and interactive ones in [my
 
 Heatmap of Pearson correlation and the correlation ratio script is located in this [link](https://github.com/andhini/Flapping-foils/tree/master/Heatmap_correlation):
 
-![Heatmap](https://github.com/andhini/Flapping-foils/tree/master/Heatmap_correlation/Heatmap_Correlation.png)
+![Heatmap](https://andhini.github.io/Flapping-foils/Heatmap_correlation/Heatmap_Correlation.png)
 
 The following youtube videos are the supplementary data for our PNAS manuscript figure 3. The manuscript status/link will be updated as soon as it is accepted. 
 
