@@ -24,5 +24,5 @@ The following youtube videos are the supplementary data for our PNAS manuscript 
 {% include youtubePlayer.html id="85lunPzKjAY" %}
 3. Flipper-like motion, sweep angle 20, AR=8 (Figure 3b)
 {% include youtubePlayer.html id="nL-dyaWihbA" %}
-4. Flipper-like motion, sweep angle 20, AR=8 (Figure 3d)
+4. Flipper-like motion, sweep angle 40, AR=8 (Figure 3d)
 {% include youtubePlayer.html id="VPZxxEqDgAM" %}
