@@ -16,7 +16,7 @@ Heatmap of Pearson correlation and the correlation ratio script provide easy exp
 
 ![Heatmap](https://andhini.github.io/Flapping-foils/Heatmap_correlation/Heatmap_Correlation.png)
 
-The following youtube videos are the supplementary data for our journal manuscript figure 3. The manuscript status/link will be updated as soon as it is accepted. 
+The following youtube videos are the supplementary electronic data for our journal manuscript figure 3. The manuscript status/link will be updated as soon as it is accepted. 
 
 1. Tail-like motion, sweep angle 20, AR=4 (Figure 3a)
 {% include youtubePlayer.html id="Y_Kb0rKjqk4" %}
