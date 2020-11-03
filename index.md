@@ -1,4 +1,4 @@
-## Flapping foil for animal locomotion
+## Flapping foils for animal locomotions
 
 ![Flipper image](https://andhini.github.io/Flapping-foils/flipper.png)
 
