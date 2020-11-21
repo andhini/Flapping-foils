@@ -4,7 +4,7 @@
 
 The sweep back angle in animal propulsion surfaces such as fishtails, mammal flukes, and aquatic flippers is shown to have a negligible influence on fluid dynamic force and power. As such, animal fins and flukes can occur over a wide range of sweep angles without a propulsion penalty, explaining the observed variation in nature.
 
-Presentation about this work:
+Presentation about this work will be made available after the last day of virtual conference of the American Physical Society Division of Fluid Dynamics APS-DFD on Nov 26th 2020.
 {% include youtubePlayer.html id="hHlf6o1vWpI" %}
 
 
