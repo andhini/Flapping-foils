@@ -8,7 +8,7 @@ Presentation about this work will be made available after the last day of virtua
 {% include youtubePlayer.html id="hHlf6o1vWpI" %}
 
 
-The following link provide an interactive parallel-axis plot for the study results we did on the sweep angle & aspect ratio variations: [Interactive Parallel-coordinate graph](https://andhini.github.io/Flapping-foils/Parallel-Coordinate_SweepAngle/parallel_plotly.html). You can play with the interactive graph by turning on and off some parameters and values on the axis for better isolating linked inputs & outputs. Unfortunately, the interactive graph is very heavy to be embeded in this page, so the graph wil open to a new tab on your screen.
+The following link provide an interactive parallel-axis plot for the study results we did on the sweep angle & aspect ratio variations: [Interactive Parallel-coordinate graph](https://andhini.github.io/Flapping-foils/Parallel-Coordinate_SweepAngle/parallel_plotly.html). You can play with the interactive graph by turning on and off some parameters and values on the axis for better isolating linked inputs & outputs. Unfortunately, the interactive graph is very heavy to be embeded in this page, so the graph will open a new page on your screen.
 
 The static graph is also provided in github [link](https://andhini.github.io/Flapping-foils/Parallel-Coordinate_SweepAngle/ParallelPlot_MatplotlibVersion.png) along with the data in csv filetype. The static graph looks like this :
 
